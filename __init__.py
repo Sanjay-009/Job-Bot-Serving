@@ -1,0 +1,1 @@
+# It is used to store the 'about.py' as object
